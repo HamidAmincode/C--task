@@ -1,0 +1,1 @@
+// one and three are same task but wording is different but same
